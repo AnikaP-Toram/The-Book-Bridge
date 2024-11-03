@@ -13,8 +13,8 @@ Before setting up the frontend, ensure you have the following installed:
 ## Setup Instructions
 **1. Clone the Repository**:<br>
 ```
-   git clone https://github.com/AnikaP-Toram/Test-The-Book-Bridge.git
-   cd Test-The-Book-Bridge/Frontend
+   git clone https://github.com/AnikaP-Toram/The-Book-Bridge.git
+   cd The-Book-Bridge/Frontend
 ```
 
 **2. Install Dependencies**: <br>
