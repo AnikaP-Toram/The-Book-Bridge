@@ -19,8 +19,8 @@ Book Bridge is a platform designed to connect book enthusiasts with others who s
 
 ## Installation
 To get started with the Book Bridge project, follow the setup instructions in the respective directories:<br>
-**-** [Backend Setup Instructions](https://github.com/AnikaP-Toram/Test-The-Book-Bridge/blob/main/Backend/README.md)<br>
-**-** [Frontend Setup Instructions](https://github.com/AnikaP-Toram/Test-The-Book-Bridge/blob/main/Frontend/README.md)
+**-** [Backend Setup Instructions](https://github.com/AnikaP-Toram/The-Book-Bridge/blob/main/Backend/README.md)<br>
+**-** [Frontend Setup Instructions](https://github.com/AnikaP-Toram/The-Book-Bridge/blob/main/Frontend/README.md)
 
 ## Contributing
 Contributions to the Book Bridge platform are welcome! If you encounter any issues or have feedback, please feel free to open an issue or contribute to the project. <br>
