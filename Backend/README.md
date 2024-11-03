@@ -17,8 +17,8 @@ Before setting up the backend, ensure you have the following installed:
 ## Setup Instructions
 **1. Clone the Repository**:<br>
 ```
-   git clone https://github.com/AnikaP-Toram/Test-The-Book-Bridge.git
-   cd Test-The-Book-Bridge/Backend
+   git clone https://github.com/AnikaP-Toram/The-Book-Bridge.git
+   cd The-Book-Bridge/Backend
 ```
    
 **2. Create a Virtual Environment:**
